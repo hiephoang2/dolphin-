@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html>
+<body>
+    <h1> Shop 5 bánh </h1>
+    <p> Lưu ý không sợ béo thì hẵng mua =)) </p>
+    <h2> Link fb của chủ tus :3 </h2>
+    <a href="https://www.facebook.com/hiep.h20"> Vào đây để qua fb nè </a>
+</body>
+<style>
+    body {
+        background-image: url('anhnen.jpg');
+        background-repeat: repeat
+    }
+</style>
+<head>
+    <form>
+        <h3>Biểu mẫu đăng ký --- dammio.com</h3>
+        Họ:<br>
+        <input type="text" name="firstname"><br>
+        Tên:<br>
+        <input type="text" name="lastname">
+    </form>
+    <form>
+        <h3>Hãy chọn thành phố nơi bạn sinh sống --- dammio.com</h3>
+        <input type="radio" name="city" value="hanoi" checked> Hà Nội<br>
+        <input type="radio" name="city" value="danang"> Đà Nẵng<br>
+        <input type="radio" name="city" value="saigon"> Sài Gòn<br>
+        <input type="radio" name="city" value="khac"> Khác
+    </form>
+    <meta charset="utf-8" />
+    <title></title>
+</head>
+<body>
+
+</body>
+</html>
